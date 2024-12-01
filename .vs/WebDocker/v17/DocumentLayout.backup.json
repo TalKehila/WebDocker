@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WebDocker.http",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\WebDocker.http",
               "RelativeDocumentMoniker": "WebDocker\\WebDocker.http",
@@ -38,7 +38,8 @@
               "RelativeToolTip": "WebDocker\\WebDocker.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-18T16:52:04.663Z"
+              "WhenOpened": "2024-11-18T16:52:04.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,19 +49,20 @@
               "RelativeDocumentMoniker": "WebDocker\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebDocker\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:30:13.504Z"
+              "WhenOpened": "2024-11-18T16:30:13.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Program.cs",
               "RelativeDocumentMoniker": "WebDocker\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Program.cs",
               "RelativeToolTip": "WebDocker\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T16:29:52.171Z",
               "EditorCaption": ""
