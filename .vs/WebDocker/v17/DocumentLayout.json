@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\webdocker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|c:\\users\\user\\desktop\\studies\\docker\\webdocker\\webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82207548-60BE-4D25-B697-3A4E629CDBB3}|WebDocker\\WebDocker.csproj|solutionrelative:webdocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebDocker.http",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\WebDocker.http",
+              "RelativeDocumentMoniker": "WebDocker\\WebDocker.http",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\WebDocker.http",
+              "RelativeToolTip": "WebDocker\\WebDocker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-18T16:52:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebDocker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebDocker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:30:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Program.cs",
+              "RelativeDocumentMoniker": "WebDocker\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Program.cs",
+              "RelativeToolTip": "WebDocker\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:29:52.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
