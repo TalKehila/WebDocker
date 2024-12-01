@@ -38,8 +38,7 @@
               "RelativeToolTip": "WebDocker\\WebDocker.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-18T16:52:04.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T16:52:04.663Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "WebDocker\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\Docker\\WebDocker\\WebDocker\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebDocker\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T16:30:13.504Z",
               "EditorCaption": ""
