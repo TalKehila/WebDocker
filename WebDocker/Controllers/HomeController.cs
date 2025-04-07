@@ -15,7 +15,7 @@ public class HomeController : ControllerBase
 
 
 
-KOREN GAY 
+
   .--------------.
   '==============='");
     }
